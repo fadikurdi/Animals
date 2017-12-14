@@ -1,0 +1,6 @@
+Bear
+Camel
+Cheetah
+Dinosaur
+Elephant
+Fox
